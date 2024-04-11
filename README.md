@@ -1,6 +1,7 @@
 # Urban Public Transport Optimization Using Artificial Intelligence
 
-This repository contains an in-depth exploration of the application of artificial intelligence (AI) in optimizing urban public transportation. The goal is to provide insights into how AI can improve the efficiency, accessibility, and sustainability of public transportation systems in urban areas.
+This repository contains an in-depth exploration of the application of artificial intelligence (AI) in optimizing urban public transportation. <br>
+The goal is to provide insights into how AI can improve the efficiency, accessibility, and sustainability of public transportation systems in urban areas.
 
 ## Contents
 1. Background
